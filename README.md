@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shyam Prasad</h1>
-<h3 align="center">Full Stack Engineer with experience in building end-to-end web & cross-platform mobile applications. Specialized in JavaScript, Java, and the entire framework ecosystem Node.js, Spring Boot, React.js, Angular, and Capacitor.js.</h3>
+<h3 align="center">Full Stack Engineer with experience in building end-to-end web & cross-platform mobile applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamprasadc&label=Profile%20views&color=0e75b6&style=flat" alt="shyamprasadc" /> </p>
 
+<p align="left"> <a href="https://twitter.com/shyam_prasad_c" target="blank"><img src="https://img.shields.io/twitter/follow/shyam_prasad_c?logo=twitter&style=for-the-badge" alt="shyam_prasad_c" /></a> </p>
+
 - 🌱 I’m currently learning **Go Lang**
+
+- 💬 Ask me about **Node.js, MongoDB, React.js**
 
 - 📫 How to reach me **shyamprasadc1995@gmail.com**
 
@@ -23,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shyamprasadc&show_icons=true&locale=en&layout=compact" alt="shyamprasadc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamprasadc&show_icons=true&locale=en" alt="shyamprasadc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamprasadc&" alt="shyamprasadc" /></p>
