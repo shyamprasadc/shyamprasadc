@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamprasadc&label=Profile%20views&color=0e75b6&style=flat" alt="shyamprasadc" /> </p>
 <p align="left"> <a href="https://twitter.com/shyam_prasad_c" target="blank"><img src="https://img.shields.io/twitter/follow/shyam_prasad_c?logo=twitter&style=for-the-badge" alt="shyam_prasad_c" /></a> </p>
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 💬 Ask me about **Node.js, MongoDB, React.js**
 
