@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shyam Prasad</h1>
-<h3 align="center">Full Stack Engineer with experience in building end-to-end web applications.</h3>
+<h3 align="center">Backend & Data Engineer with experience building data lakehouses, ETL pipelines, and scalable microservices for high-performance systems.</h3>
 <img align="right" width="360" src="https://i.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.webp" alt= "Coding" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamprasadc&label=Profile%20views&color=0e75b6&style=flat" alt="shyamprasadc" /> </p>
 <p align="left"> <a href="https://twitter.com/shyam_prasad_c" target="blank"><img src="https://img.shields.io/twitter/follow/shyam_prasad_c?logo=twitter&style=for-the-badge" alt="shyam_prasad_c" /></a> </p>
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Advanced Data Engineering, Apache Spark, Databricks, Kafka**
 
-- 💬 Ask me about **Node.js, MongoDB, React.js**
+- 💬 Ask me about **Data Lakehouses, ETL Pipelines, Apache Spark, Python, Node.js, API Design, Microservices Architecture, Database Optimization**
 
 - 📫 How to reach me **shyamprasadc1995@gmail.com**
+
+- ⚡ Fun fact **I enjoy turning complex problems into clean, maintainable, and efficient solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
