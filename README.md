@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shyamprasadc&label=Profile%20views&color=0e75b6&style=flat" alt="shyamprasadc" /> </p>
 <p align="left"> <a href="https://twitter.com/shyam_prasad_c" target="blank"><img src="https://img.shields.io/twitter/follow/shyam_prasad_c?logo=twitter&style=for-the-badge" alt="shyam_prasad_c" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Data Engineering, Apache Spark, Databricks, Kafka**
+- 🌱 I’m currently learning **Data Engineering, Apache Spark, Databricks, Kafka**
 
 - 💬 Ask me about **Data Lakehouses, ETL Pipelines, Apache Spark, Python, Node.js, API Design, Microservices Architecture, Database Optimization**
 
